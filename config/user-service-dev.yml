@@ -4,10 +4,10 @@ sp:
 
 spring:
   application:
-    name: acx-service
+    name: user-service
     
 server:
-  port: 8101
+  port: 8102
 
 eureka:
   instance:
